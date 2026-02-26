@@ -5,6 +5,7 @@
 Este repositório documenta a prática realizada durante o laboratório de fundamentos da certificação AZ-900, com foco em conceitos essenciais de arquitetura e navegação no Microsoft Azure.
 
 🚀 Conteúdos Explorados
+
 🔭 1. Datacenter Azure Global
 Exploração do mapa global interativo do Azure, incluindo:
 
